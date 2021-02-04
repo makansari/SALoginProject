@@ -19,5 +19,5 @@ class LoginEntity  {
     var password : String = ""
 
     @ColumnInfo(name = "mobile")
-    var mobile : Int = 0
+    var mobile : String = ""
 }
